@@ -1,0 +1,7 @@
+Data/raw/
+.local_backups/
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.DS_Store
+*.tmp
